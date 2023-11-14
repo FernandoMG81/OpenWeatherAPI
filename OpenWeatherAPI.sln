@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWeatherAPI", "OpenWeatherAPI\OpenWeatherAPI.csproj", "{4D8C3138-2371-420D-BB6D-F5D8F059B9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{296F1605-16E3-4BB2-9D58-4413D3C50553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8C3138-2371-420D-BB6D-F5D8F059B9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8C3138-2371-420D-BB6D-F5D8F059B9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8C3138-2371-420D-BB6D-F5D8F059B9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8C3138-2371-420D-BB6D-F5D8F059B9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296F1605-16E3-4BB2-9D58-4413D3C50553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F1605-16E3-4BB2-9D58-4413D3C50553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F1605-16E3-4BB2-9D58-4413D3C50553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F1605-16E3-4BB2-9D58-4413D3C50553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB6BF369-8DBF-45D2-8C0F-55FBF9B97978}
+	EndGlobalSection
+EndGlobal
